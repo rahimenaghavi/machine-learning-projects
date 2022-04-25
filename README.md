@@ -1,5 +1,5 @@
 # machine-learning-project
 This repository contains some project with machine learning algorithm:
 * New Classification
-* Banking customers
+* Banking customers analysis : In this notebook, data preparation, exploration, and classification are performed on customers
 *
